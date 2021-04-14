@@ -4,7 +4,7 @@
 
 성장하는 개발자, 같이 일하고싶은 개발자 김성연입니다.
 
-# Experience
+# Career
 - 2012.03 ~ 2019.02 : 대학교 (졸업)
 - 2013.10 ~ 2015.07 : 군대 (만기제대)
 - 2017.09 ~ 2018.03 : 국비교육 웹 개발 과정 (수료)
@@ -12,7 +12,7 @@
 - 2019.05 ~ 2020.05 : 개발공부 (포트폴리오 : [여기](https://github.com/yeon1216/introduce/blob/main/portfolio.md))
 - 2020.07 ~ : 볼트마이크로 재직중 (담당 업무 : android, react, nestjs)
 
-### Troubleshooting Experience
+## Troubleshooting Experience
 
 [메모리 누수 원인을 찾다]
 
