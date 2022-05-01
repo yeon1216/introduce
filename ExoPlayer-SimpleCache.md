@@ -5,8 +5,8 @@
 ## Architecture
 
 ExoPlayer에서 비디오를 캐싱하고 Player를 통해 로드하고 재생하는 과정입니다.
+<img width="1922" alt="exoplayer" src="https://user-images.githubusercontent.com/37677444/166139560-d1169cd0-b9a1-4a75-bdfd-7f735c6a511b.png">
 
-![exoplayer.png](ExoPlayer%2047037d69437b4ea4addf404b331e207c/exoplayer.png)
 
 <br>
 
