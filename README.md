@@ -31,7 +31,7 @@
 
 ## Work Experience
 
-“ExoPlayer SimpleCache 분석” In 키네마스터
+“[ExoPlayer SimpleCache 분석](https://github.com/yeon1216/introduce/blob/main/ExoPlayer-SimpleCache.md)” In 키네마스터
 
  회사에서 틱톡과 비슷한 서비스를 만들 계획이 생겨 빠르게 스와이프하여도 영상이 끊기지 않고 사용자에게 보여질 수 있도록 하기 위해 ExoPlayer SimpleCache를 분석하였습니다.
 
