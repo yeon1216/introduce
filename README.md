@@ -10,8 +10,8 @@
 
 # Technology Stack
 
-- **Language** : Kotlin, Java, Python, Javascript, Typescript
-- **Framework** : Android, React, NestJS, FastAPI
+- **Language** : Swift, Kotlin, Java, Python, Javascript, Typescript
+- **Framework** : SwiftUI, Foundation, Android, React, NestJS, FastAPI
 - **Server & Client Interface** : RestAPI, GraphQL
 - **Collaboration Tools** : Git, Github, Jira, Figma, Zeplin
 - **Etc** : GCP, Firebase, Docker, Linux
