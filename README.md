@@ -31,22 +31,15 @@
     - AniToon IOS 앱 출시 (24년 3월 출시)
     - BeatSync, SpeedRamp 안드로이드 앱 유지보수
 
-## Work Experience
+## Kinemaster Experience
 
-안드로이드개발자로 입사하여 여러 안드로이드 앱을 유지보수하였습니다. 그러던중 IOS 신규 앱 개발에 참
-여할 기회가 생겨 약 1년 전부터 IOS 앱 개발을 진행하였습니다.
+안드로이드개발자로 입사하여 여러 안드로이드 앱을 유지보수하였습니다. 그러던중 IOS 신규 앱 개발에 참여할 기회가 생겨 약 1년 전부터 IOS 앱 개발을 진행하였습니다.
+
 [AniToon IOS 앱]
 - 프레임 애니메이션 제작 앱 (24년 3월 출시)
-- SwiftUI
+- Swift, SwiftUI, CocoaPod ...
+
 [BeatSync, SpeedRamp 안드로이드 앱]
 - 앱 유지보수 (기능 추가, 버그 수정 등)
 - 틱톡과 비슷한 짧은 영상 서비스
 - Kinemaster 프로젝트 공유 기능
-김성연 경력
-남, 1993 (30세)
-sykim8770@gmail.com 010-2941-2360
-(06569) 서울 서초구 방배천로
-IOS Swift Android Kotlin
-[프로젝트 검수 시스템 웹서비스]
-- FastAPI, Jinja2 이용
-- 검수가 필요한 프로젝트(영상)의 정보를 추출하여 Jira에 티켓을 만드는 웹서비스
