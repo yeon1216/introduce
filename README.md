@@ -2,19 +2,20 @@
 
 안녕하세요.
 
-꾸준히 성장하는 개발자, 같이 일하고 싶은 개발자가 되기 위해 노력하는 김성연입니다.
-
-새로운 기술과 이유가 있는 기술 선택, 깔끔한 코드(유지보수가 잘되고 다른 개발자들이 이해하기 쉬운 코드), 메모리 관리, 빌드 자동화, 비개발자와의 커뮤니케이션 등에 관심이 많습니다.
+안드로이드 개발자로 입사하여 약 3년정도 안드로이드 개발자로서 다양한 앱을 유지보수한 경험을 쌓았습니다. 그리고 약 1년 전부터 IOS 개
+발자로서 IOS 앱을 개발중입니다. 회사에서는 프레임 애니메이션을 제작할 수 있는 AniToon을 24년 3월 출시하였습니다. 또한, 사이드 프로젝
+트 네니오를 진행하면서 기획자, 디자이너, 서버 개발자들과 함께 협업하고 있습니다. 저는 문제 해결능력과 팀원들과의 원활한 커뮤니케이
+션을 중요시하며, 새로운 기술에 대한 학습과 적용에 열린 자세를 갖고 있습니다.
 
 감사합니다.
 
 # Technology Stack
 
-- **Language** : Swift, Kotlin, Java, Python, Javascript, Typescript
+- **Language** : Swift, Kotlin, Python, Javascript
 - **Framework** : SwiftUI, Foundation, Android, React, NestJS, FastAPI
 - **Server & Client Interface** : RestAPI, GraphQL
 - **Collaboration Tools** : Git, Github, Jira, Figma, Zeplin
-- **Etc** : GCP, Firebase, Docker, Linux
+- **Etc** : GCP, Firebase, Docker
 
 # Career
 
@@ -27,22 +28,25 @@
 - 2020.07 ~ 2021.06 : 볼트마이크로
     - CameraFi Live 안드로이드 앱 유지보수
 - 2021.07 ~ 재직중 : 키네마스터
+    - AniToon IOS 앱 출시 (24년 3월 출시)
     - BeatSync, SpeedRamp 안드로이드 앱 유지보수
 
 ## Work Experience
 
-- “[ExoPlayer SimpleCache 분석](https://github.com/yeon1216/introduce/blob/main/ExoPlayer-SimpleCache.md)” In 키네마스터
-
- 회사에서 틱톡과 비슷한 서비스를 만들 계획이 생겨 빠르게 스와이프하여도 영상이 끊기지 않고 사용자에게 보여질 수 있도록 하기 위해 ExoPlayer SimpleCache를 분석하였습니다.
- 
- 
-
-- “메모리 누수 원인을 찾다” In 볼트마이크로 
-
- 볼트마이크로 회사 입사후 약 3개월차에 회사에서 서비스하는 앱에 메모리 누수가 발생하여 메모리 누수의 원인을 파악하는 업무가 부여되었습니다. 참고로 현재 회사에서 서비스중인 앱은 라이브방송을 도와주는 '카메라파이라이브'앱입니다. 우선 LeakCanary라는 안드로이드 메모리 누수를 탐지해주는 라이브러리를 사용하여 메모리 누수가 어디서 일어나는지 파악해보았습니다. 해당 라이브러리를 사용하니 메모리 누수가 어디에서 발생하는지는 금방 파악이 되었습니다. 여기에서 더 나아가 메모리 누수가 발생하는 원인을 파악해보았습니다. 이 원인을 파악하면서 메모리의 static, heap 영역, Garbage Collector, Weak Reference에 대한 이해도가 높아졌습니다. 또한 안드로이드에서 Activity Context, Thread 사용시 메모리 누수에 대한 신경을 많이 써야된다는 점도 다시 한번 인식하였습니다.
-
-
-
-- “안드로이드 빌드 과정을 자동화 하다” In 볼트마이크로 
-
- 안드로이드 개발 후 release 빌드시 안드로이드 스튜디오를 통해서 release 빌드가 가능하지만 버튼을 몇번 눌러야하고, 추출된 apk를 찾아가 현재 버전이름으로 적용을 해야하는 등 불편함이 있었습니다. 그래서 고민을 하다 gradlew를 사용하여 shell script를 작성하여 release 빌드를 하도록 하였습니다. 이 과정에서 release 빌드를 하고 현재 버전을 android manifest에 접근하여 가져와 만들어진 apk 파일명을 수정하도록 하였습니다. 이제 script 파일만 한번 실행시키면 모든 작업이 자동으로 진행이 되도록 되었습니다. 추후에는 git remote의 master에 push 하였을 때 위의 과정이 서버에서 진행되도록 구현해볼 예정입니다.
+안드로이드개발자로 입사하여 여러 안드로이드 앱을 유지보수하였습니다. 그러던중 IOS 신규 앱 개발에 참
+여할 기회가 생겨 약 1년 전부터 IOS 앱 개발을 진행하였습니다.
+[AniToon IOS 앱]
+- 프레임 애니메이션 제작 앱 (24년 3월 출시)
+- SwiftUI
+[BeatSync, SpeedRamp 안드로이드 앱]
+- 앱 유지보수 (기능 추가, 버그 수정 등)
+- 틱톡과 비슷한 짧은 영상 서비스
+- Kinemaster 프로젝트 공유 기능
+김성연 경력
+남, 1993 (30세)
+sykim8770@gmail.com 010-2941-2360
+(06569) 서울 서초구 방배천로
+IOS Swift Android Kotlin
+[프로젝트 검수 시스템 웹서비스]
+- FastAPI, Jinja2 이용
+- 검수가 필요한 프로젝트(영상)의 정보를 추출하여 Jira에 티켓을 만드는 웹서비스
