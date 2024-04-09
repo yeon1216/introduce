@@ -48,8 +48,11 @@
 사이드 프로젝트 네니오는 어떤 의견에 대해 '네' 또는 '아니오'로 대답하는 커뮤니티 서비스입니다.
 회사 업무 외에 기획자, 디자이너, 서버 개발자들과 팀을 이루어 사이드 프로젝트 진행 중입니다.
 저는 IOS, 안드로이드 개발자로서 참여하고 있고, 아래 기술들을 사용하고 있습니다.
+
 [IOS]
+
 Swift, SwiftUI, Composable Architecture
+
 [안드로이드]
 - 언어 : Kotlin
 - 프레임워크 : Android
@@ -60,4 +63,4 @@ Swift, SwiftUI, Composable Architecture
 - 화면 데이터 유지 : AAC ViewModel
 - 화면 전환 : Jetpack Navigation
 - 데이터 관찰 : StateFlow
-- 의존성 주입 : Hil
+- 의존성 주입 : Hilt
