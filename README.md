@@ -49,4 +49,4 @@
 회사 업무 외에 기획자, 디자이너, 서버 개발자들과 팀을 이루어 사이드 프로젝트 진행 중입니다.
 저는 IOS, 안드로이드 개발자로서 참여하였습니다.
 
-➡️➡️ [자세히](https://github.com/yeon1216/introduce/blob/main/%EB%84%A4%EB%8B%88%EC%98%A4.md)
+➡️ [자세히](https://github.com/yeon1216/introduce/blob/main/%EB%84%A4%EB%8B%88%EC%98%A4.md)
