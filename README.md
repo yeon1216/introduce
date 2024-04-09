@@ -31,7 +31,7 @@
     - AniToon IOS 앱 출시 (24년 3월 출시)
     - BeatSync, SpeedRamp 안드로이드 앱 유지보수
 
-## Kinemaster Experience
+## Kinemaster
 
 안드로이드개발자로 입사하여 여러 안드로이드 앱을 유지보수하였습니다. 그러던중 IOS 신규 앱 개발에 참여할 기회가 생겨 약 1년 전부터 IOS 앱 개발을 진행하였습니다.
 
