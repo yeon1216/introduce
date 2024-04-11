@@ -12,7 +12,7 @@
 # Technology Stack
 
 - **Language** : Swift, Kotlin, Python, Javascript
-- **Framework** : SwiftUI, Foundation, Android, React, NestJS, FastAPI
+- **Framework** : SwiftUI, Android, React, NestJS, FastAPI
 - **Server & Client Interface** : RestAPI, GraphQL
 - **Collaboration Tools** : Git, Github, Jira, Figma, Zeplin
 - **Etc** : GCP, Firebase, Docker
@@ -37,7 +37,7 @@
 
 [AniToon IOS 앱]
 - 프레임 애니메이션 제작 앱 (24년 3월 출시)
-- Swift, SwiftUI, CocoaPod ...
+- Swift, SwiftUI, Combine ...
 
 [BeatSync, SpeedRamp 안드로이드 앱]
 - 앱 유지보수 (기능 추가, 버그 수정 등)
