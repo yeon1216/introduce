@@ -15,7 +15,7 @@
 - **Framework** : SwiftUI, Android, React, NestJS, FastAPI
 - **Server & Client Interface** : RestAPI, GraphQL
 - **Collaboration Tools** : Git, Github, Jira, Figma, Zeplin
-- **Etc** : GCP, Firebase, Docker
+- **Etc** : SQL, GCP, Firebase, Docker
 
 # Career
 
