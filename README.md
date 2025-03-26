@@ -5,7 +5,7 @@ Anitoon 앱을 출시하였습니다. 그 전에는 BeatSync와 CameraFiLive 같
 다.
 
 # Skills
-iOS, Android, Swift, Kotlin, Python, Javascript, SwiftUI, Jetpack Compose, Combine,
+iOS, Android, Swift, Kotlin, SwiftUI, Jetpack Compose, Combine,
 Concurrency, Coroutine, Hilt, Retrofit, MVVM, Composable Architecture, Github, Jira, Figma
 
 # Experience
