@@ -1,8 +1,12 @@
 # Profile
-안녕하세요. 5년차 앱 개발자 김성연입니다. 저는 다양한 프로젝트를 통해 풍부한 경험을 쌓아왔으며, 문제 해결 능력과 원활한 커뮤니케이션을 중요시합니다. 최신 기술 학습과 적용에도 열려 있는 자세를 갖고 있습니다. 2024년 초에는 Stop Motion Animation을 제작할 수 있는 Anitoon을 출시하였으며, BeatSync와 CameraFiLive 같은 안드로이드 앱 개발에도 참여하였습니다. 
+안녕하세요. 6년차 IOS 앱 개발자 김성연입니다. 저는 다양한 프로젝트를 통해 경험을 쌓아왔으며, 문제 해결
+능력과 원활한 커뮤니케이션을 중요시합니다. 최신 기술 학습과 적용에도 열려 있는 자세를 갖고 있습니다. 현재 재직중인 키네마스터에서 23년부터 준비하여 24년 2월 Frame 단위 Animation을 제작할 수 있는 IOS
+Anitoon 앱을 출시하였습니다. 그 전에는 BeatSync와 CameraFiLive 같은 안드로이드 앱 개발을 하였습니
+다.
 
 # Skills
-IOS, Android, Swift, Kotlin, Python, Javascript, SwiftUI, Jetpack Compose, Combine, Concurrency, Coroutine, Hilt, Retrofit, MVVM, Composable Architecture, Github, Jira, Figma 
+iOS, Android, Swift, Kotlin, Python, Javascript, SwiftUI, Jetpack Compose, Combine,
+Concurrency, Coroutine, Hilt, Retrofit, MVVM, Composable Architecture, Github, Jira, Figma
 
 # Experience
 ### Kinemaster    21.07 ~ / IOS,Android App Developer
